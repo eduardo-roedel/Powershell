@@ -1,3 +1,5 @@
+#https://eduardoroedel.medium.com/powershell-replicar-permiss%C3%B5es-de-uma-pasta-para-outras-sql-server-45ba6c4af314
+
 $RootPath = "O:\";
 $TemplatePathACL = "'O:\System\System'";
 
